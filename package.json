@@ -4,7 +4,7 @@
   "main": "./index.js",
   "description": "Adds product recommendations to vendure",
   "repository": "https://github.com/Tyratox/vendure-product-recommendations",
-  "author": "Nico Hauser",
+  "author": "asiz33",
   "license": "MIT",
   "scripts": {
     "build": "rimraf lib && tsc && cp package.json ./lib/ && cp README.md ./lib/ && cp -r ./src/ui-extensions ./lib/ui-extensions"
