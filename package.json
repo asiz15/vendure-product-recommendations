@@ -1,6 +1,6 @@
 {
-  "name": "vendure-product-recommendations",
-  "version": "0.1.21",
+  "name": "@asiz15/vendure-product-recommendations",
+  "version": "0.1.0",
   "main": "./index.js",
   "description": "Adds product recommendations to vendure",
   "repository": "https://github.com/Tyratox/vendure-product-recommendations",
@@ -11,16 +11,16 @@
   },
   "devDependencies": {
 	"@apollo/gateway": "0.26.0",
-    "@types/prosemirror-menu": "^1.0.1",
-    "@types/prosemirror-model": "^1.7.2",
-    "@types/prosemirror-state": "^1.2.3",
-    "@types/prosemirror-view": "^1.11.4",
-    "@vendure/admin-ui-plugin": "^1.2.0",
-    "@vendure/common": "^1.2.0",
-    "@vendure/core": "^1.2.0",
-    "@vendure/ui-devkit": "^1.2.0",
-    "rimraf": "^3.0.2",
-    "typescript": "^4.4.2"
+  "@types/prosemirror-menu": "^1.0.1",
+  "@types/prosemirror-model": "^1.7.2",
+  "@types/prosemirror-state": "^1.2.3",
+  "@types/prosemirror-view": "^1.11.4",
+  "@vendure/admin-ui-plugin": "^1.3.4",
+  "@vendure/common": "^1.3.4",
+  "@vendure/core": "^1.3.4",
+  "@vendure/ui-devkit": "^1.3.4",
+  "rimraf": "^3.0.2",
+  "typescript": "^4.4.2"
   },
   "dependencies": {
     "tslib": "^2.3.1"
