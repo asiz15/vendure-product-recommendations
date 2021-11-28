@@ -8,6 +8,7 @@
     "target": "es2017",
     "strict": true,
     "sourceMap": false,
+    "skipLibCheck": true,
     "baseUrl": "./",
     "strictPropertyInitialization": false,
     "removeComments": false,
