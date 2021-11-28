@@ -1,6 +1,6 @@
 {
   "name": "@asiz33/vendure-product-recommendations",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "./index.js",
   "description": "Adds product recommendations to vendure",
   "repository": "https://github.com/asiz15/vendure-product-recommendations",
